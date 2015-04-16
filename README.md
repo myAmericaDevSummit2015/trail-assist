@@ -30,7 +30,7 @@ experiences you can have in parks.
 
 So, how to fill in a map like this?
 
-![]()
+![15,000 parks in the United States](http://content.stamen.com/files/TrailAssist_NationofParks.jpg)
 
 Ask all the people: Agency staff, park volunteers,
 [OpenStreetMappers](http://openstreetmap.org/), social media users. Fill in the
@@ -39,7 +39,7 @@ details of the park with help from social media and crowd-sourced map data!
 On [Caliparks.org](http://www.caliparks.org/), we harvest Instagram photos to
 show how people experience thousands of parks:
 
-![]()
+[![Instagram for California's top parks](http://content.stamen.com/files/CaliParks_Instagram.jpg)](http://caliparks.org)
 
 [Trailhead Labs](http://www.trailheadlabs.com/) built the [open
 source](https://github.com/CodeForPortland/trailheadit)
@@ -47,7 +47,7 @@ source](https://github.com/CodeForPortland/trailheadit)
 trailheads, to build a crowd-sourced trailhead database with images and
 detailed information:
 
-![]()
+[![Trail editor is for gathering trailhead data](http://content.stamen.com/files/TrailEditor_Home.jpg)](http://traileditr.org)
 
 But crowdsourced data is not without its challenges. It can work amazingly well
 at scale, but it can also be wrong.
@@ -80,7 +80,7 @@ Working within the open source [Java OSM editor
 Stack](http://mapstack.stamen.com)) and API integration with
 [CartoDB](http://cartodb.com/) to make a view like this:</p>
 
-![]()
+![comparison view in JOSM](http://content.stamen.com/files/TrailAssist_JOSMcompare.jpg)
 
 The yellow is agency data. The magenta is OSM data, and the variable blue lines
 are the [Strava](http://strava.com/) [Global
